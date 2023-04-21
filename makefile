@@ -8,5 +8,3 @@ fact.o:fact.c
         gcc -c fact.c
 big2.o:big2.c
         gcc -c big2.c
-
-
